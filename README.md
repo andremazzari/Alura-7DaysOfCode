@@ -12,9 +12,9 @@ The tasks accomplished each day are the following:
 
 - **Day 4:** The fourth consisted in creating a **recommendation system** using the [MovieLens](https://grouplens.org/datasets/movielens/100k/) dataset ml-100k, which contains 100,000 ratings (1-5) from 943 users on 1682 movies. To build the recommendation models, the library [Surprise](https://surpriselib.com/) was used, which has multiple KNN-based algorithms for recommendation.
 
-- **Day 5:** On the fifth day, the objective was to create an API for the recommendation model created on the fourth day. The [Flask](https://flask.palletsprojects.com/en/2.2.x/) library was used for this.
+- **Day 5:** On the fifth day, the objective was to create an **API** for the recommendation model created on the fourth day. The [**Flask**](https://flask.palletsprojects.com/en/2.2.x/) library was used for this.
 
-- **Day 6:** On the sixth day, an A/B test was applied to a [database](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) available at Kaggle. The [statsmodels](https://www.statsmodels.org/stable/index.html} library was used to perform a Z-test.
+- **Day 6:** On the sixth day, an **A/B test** was applied to a [database](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) available at Kaggle. The [statsmodels](https://www.statsmodels.org/stable/index.html} library was used to perform a Z-test.
 
 - **Day 7:** The objective of the last day was to upload the project to some portfolio, like GitHub.
 
